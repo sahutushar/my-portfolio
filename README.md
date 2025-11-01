@@ -13,9 +13,17 @@ Designed with professional UI, smooth animations, and mobile-first design to cre
 🖼️ Screenshots
 💻 Desktop View
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-01 120046" src="https://github.com/user-attachments/assets/4642e2ff-a37f-450f-a9df-c6263118a037" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-01 120054" src="https://github.com/user-attachments/assets/077b8e29-a1c1-4861-a767-b84aad87fc68" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-01 014207" src="https://github.com/user-attachments/assets/e156eb11-4be0-4291-a02c-e64cebf7a7e2" />
+
+
+
 📱 Mobile View
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-01 014207" src="https://github.com/user-attachments/assets/2c21b67d-bddf-440c-b922-31460cb98a25" />
+<img width="425" height="738" alt="Screenshot 2025-11-01 120716" src="https://github.com/user-attachments/assets/056a8649-716b-443c-b64b-bf484448d8a2" />
+<img width="413" height="730" alt="Screenshot 2025-11-01 120751" src="https://github.com/user-attachments/assets/fc35b1c7-e5b4-4d78-919d-4a41bc385714" />
+
 
 
 ⭐ Features
@@ -83,6 +91,7 @@ npm run dev
 │   └── utils/
 └── README.md
 
+
 📌 Future Enhancements
 
 🔐 Dark / Light mode toggle
@@ -97,12 +106,10 @@ npm run dev
 
 If you want to connect or collaborate — feel free to reach out 👇
 
-📩 Email: yourmail@example.com
+📩 Email: sahutusharjsr@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
-
-🐙 GitHub: https://github.com/yourusername
-
+🔗 LinkedIn:https://www.linkedin.com/in/tusharsahu16/
+🐙 GitHub:https://github.com/sahutushar
 🏆 Badges
 
 
